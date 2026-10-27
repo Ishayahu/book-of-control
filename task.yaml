@@ -1,0 +1,31 @@
+# Canonical root-task metadata for P032; content/drafts and technical plans remain in their native files.
+# Historical planner fields are retained only for provenance, not synchronized back.
+id: "P032"
+title: "Эпичное фэнтези"
+expected_result: "Развить самостоятельный мир эпического фэнтези и довести текущую историю до связного литературного текста с внутренне согласованными правилами мира и магии."
+role: "Творец / автор"
+priority: null
+horizon: "Долгосрочный творческий проект; без жёсткого дедлайна"
+status: "Активный"
+completion_criterion:
+  state: "unknown"
+  description: null
+  note: "Expected result is recorded; a precise verifiable completion condition was not explicitly confirmed."
+legacy_planner_snapshot:
+  source_url: "https://docs.google.com/spreadsheets/d/1KU5FJpEIoY1zgxzdlHIWI2Tc05PqyLYEq-Zb3FHr29I/edit"
+  tab: "Проекты"
+  row: 33
+  read_on: "2026-10-28"
+  values:
+    milestone: "Довести текущую сцену/главу до согласованного варианта"
+    next_action: "Продолжить работу над текущей сценой боя, сохраняя более простую механику конфликта холода и огня и согласованность с правилами мира."
+    progress_percent: null
+    notes: "27.10.2026 — пользователь сообщил о некотором прогрессе в написании фэнтези-книги. Конкретный объём и содержание продвижения пока не уточнены; процент прогресса и следующая веха оставлены без изменений."
+current_work:
+  readme: "README.md"
+  open_threads: "planning/open-threads.md"
+  first_book_outline: "planning/book-1-outline.md"
+  note: "README documents chapters 1–4 as previously discussed and chapters 5–19 plus epilogue as speculative draft; the sheet's scene-level next action may be stale."
+observations:
+  - reported_on: "2026-10-27"
+    detail: "User reported writing progress; amount and nature not verified."
